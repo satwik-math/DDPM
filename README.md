@@ -6,9 +6,12 @@ The diffusion generative model is a probabilistic model used for image generatio
 ](https://arxiv.org/abs/2312.14977).
 
 ## Generated Images
-The folowing two images show how synthetic images can evolve with time $' t = 0 '$ starting with a complete random noise, produced at time $' t = 1000 '$:
-![initial noise](https://github.com/satwik-math/DDPM/blob/main/asset/noise.png)
-![final noise](https://github.com/satwik-math/DDPM/blob/main/asset/generated_image.png)
+The folowing two images show how synthetic images can evolve at time $` t = 0 `$:
+![initial noise](https://github.com/satwik-math/DDPM/blob/main/asset/generated_image.png)
+
+starting with a complete random noise, produced at time $` t = 1000 `$:
+
+![final noise](https://github.com/satwik-math/DDPM/blob/main/asset/noise.png)
 
 
 
